@@ -1,4 +1,10 @@
-# Structure
+# Structure of this Repository
 
-## data-folder
-Within the data folder, you find every file I used for my network analysis assignment (winter term 25-26).
+## Data
+Within the *data* folder, you find every file I used for my network analysis assignment (winter term 25-26).
+
+## Literature
+You can find the literature I referred to in the *LiteraturNeu.bib* file.
+
+## Plots
+You can find the code of my plots in the *networkxplots.ipynb* file
