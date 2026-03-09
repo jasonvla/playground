@@ -1,10 +1,10 @@
 # Structure of this Repository
 
-## Data
-Within the *data* folder, you find every file I used for my network analysis assignment (winter term 25-26).
+## dl.ipynb
 
-## Literature
-You can find the literature I refer to in the *LiteraturNeu.bib* file.
+workthrough of MIT-OCW HODL Prof. Rama Ramakrishnan
+development of NNs from scratch in python with keras/tensorflow
 
-## Plots
-You can find the code of my plots in the *networkplots.ipynb* file
+# models.ipynb
+
+tests of regression models (logistic, linear, ...)
